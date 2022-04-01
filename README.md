@@ -4,7 +4,7 @@ I'm a self taught web developer. I'm a life-long learner whos always interested 
 
 [![CSharp Badge](http://img.shields.io/badge/-CSharp-5C2D91?style=for-the-badge&labelColor=black&logo=c-sharp&logoColor=5d2b90)](#) [![SQL Badge](http://img.shields.io/badge/-SQL-5C2D91?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=CC2927)](#) [![Hthml Badge](http://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=CC2927)](#) 
 [![GraphQL Badge](http://img.shields.io/badge/-Bootstrap-000000?style=for-the-badge&labelColor=800080&logo=bootstrap&logoColor=#000000)](#)
- [![JavaScript Badge](https://img.shields.io/endpoint?color=Orange&label=JavaScript&logo=JavaScript&style=plastic)](#)
+ [![JavaScript Badge](https://img.shields.io/endpoint?color=Orange&label=JavaScript&logo=JavaScript&style=for-the-badge&logo=appveyor)](#)
 
 - 🔭 I’m currently working on ... Build my Portfolio
 - 🌱 I’m currently learning .NetCore
