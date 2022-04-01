@@ -49,7 +49,7 @@ No Activity tracked this Week
 
 #### Github Stats
 
-![ranflindiaz github stats](https://github-readme-stats.vercel.app/api?username=ranflindiaze&count_private=true&theme=tokyonight&hide=contribs,prs)
+![ranflindiaz github stats](https://github-readme-stats.vercel.app/api?username=ranflindiaz&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 
 
